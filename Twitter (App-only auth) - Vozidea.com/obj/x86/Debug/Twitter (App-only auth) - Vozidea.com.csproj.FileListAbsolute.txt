@@ -1,0 +1,8 @@
+c:\users\va\documents\visual studio 2010\Projects\Twitter (App-only auth) - Vozidea.com\Twitter (App-only auth) - Vozidea.com\bin\Debug\Twitter (App-only auth) - Vozidea.com.exe.config
+c:\users\va\documents\visual studio 2010\Projects\Twitter (App-only auth) - Vozidea.com\Twitter (App-only auth) - Vozidea.com\obj\x86\Debug\Twitter__App_only_auth____Vozidea.com.Form1.resources
+c:\users\va\documents\visual studio 2010\Projects\Twitter (App-only auth) - Vozidea.com\Twitter (App-only auth) - Vozidea.com\obj\x86\Debug\Twitter__App_only_auth____Vozidea.com.Properties.Resources.resources
+c:\users\va\documents\visual studio 2010\Projects\Twitter (App-only auth) - Vozidea.com\Twitter (App-only auth) - Vozidea.com\obj\x86\Debug\Twitter (App-only auth) - Vozidea.com.csproj.GenerateResource.Cache
+c:\users\va\documents\visual studio 2010\Projects\Twitter (App-only auth) - Vozidea.com\Twitter (App-only auth) - Vozidea.com\bin\Debug\Twitter (App-only auth) - Vozidea.com.exe
+c:\users\va\documents\visual studio 2010\Projects\Twitter (App-only auth) - Vozidea.com\Twitter (App-only auth) - Vozidea.com\bin\Debug\Twitter (App-only auth) - Vozidea.com.pdb
+c:\users\va\documents\visual studio 2010\Projects\Twitter (App-only auth) - Vozidea.com\Twitter (App-only auth) - Vozidea.com\obj\x86\Debug\Twitter (App-only auth) - Vozidea.com.exe
+c:\users\va\documents\visual studio 2010\Projects\Twitter (App-only auth) - Vozidea.com\Twitter (App-only auth) - Vozidea.com\obj\x86\Debug\Twitter (App-only auth) - Vozidea.com.pdb
