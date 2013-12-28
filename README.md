@@ -6,7 +6,7 @@ Aplicación para autentificarse con C# en Twitter
 ================================================
 
 El código consiste en un proyecto de C# con el que podemos autentificarnos en la API de Twitter para interactur con esta.
-Es necesario el .Net Framework 4.
+Es necesario el .Net Framework 4. En el siguiente artículo encontraréis una explicación detallada del código para [autenticarse en la API de Twitter con C# usando el método Application-only](http://www.vozidea.com/autentificar-api-de-twitter-con-c-sharp).
 
 
 Características y requisitos
